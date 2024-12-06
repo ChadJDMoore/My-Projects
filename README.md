@@ -5,6 +5,7 @@
 - <a href="https://github.com/ChadJDMoore/Malware-Traffic-Analysis-with-Wireshark">Malware Traffic Analysis with Wireshark
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-1">Phishing Analysis Lab 1
 - <a href="https://github.com/ChadJDMoore/Phishing-Analysis-Lab-2">Phishing Analysis Lab 2
+- <a href="https://github.com/ChadJDMoore/The-Report-Blue-Team-Labs">The Report -Blue Team Labs
 
 #### Google Cybersecurity Certificate Projects
 - <a href="https://github.com/ChadJDMoore/Conduct-a-security-audit">Conduct a security audit
