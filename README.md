@@ -19,3 +19,8 @@
 #### Python Projects
 - <a href="https://github.com/ChadJDMoore/Password-Strength-Checker">Password Strength Checker
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
+
+#### Blue Team Junior Analyst Pathway Projects
+##### Wireshark
+- PCAP 1
+- PCAP 2
