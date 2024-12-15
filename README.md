@@ -22,5 +22,5 @@
 
 #### Blue Team Junior Analyst Pathway Projects
 ##### Wireshark
-- PCAP 1
-- PCAP 2
+- <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
+- <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2
