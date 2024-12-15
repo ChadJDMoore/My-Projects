@@ -20,6 +20,7 @@
 - <a href="https://github.com/ChadJDMoore/Simple-Firewall-Simulation">Simple Firewall Simulation
 
 #### Blue Team Junior Analyst Pathway Projects
-##### Wireshark
-- <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1
-- <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2
+| Wireshark                                              | tcpdump      |
+|------------------------------------------------------- |------------- |
+| <a href="https://github.com/ChadJDMoore/PCAP-1">PCAP 1 |              |
+| <a href="https://github.com/ChadJDMoore/PCAP-2">PCAP 2 |              |
